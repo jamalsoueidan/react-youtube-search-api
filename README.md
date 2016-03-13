@@ -1,4 +1,4 @@
-# Redux Simple Project
+# React Simple Project
 
 Simple project using React.
 
