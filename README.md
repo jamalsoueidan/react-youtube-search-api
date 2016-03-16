@@ -2,11 +2,11 @@
 
 Simple project using React.
 
-Used Youtube API (React).
+Used Youtube API.
 
 
 ####Git#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start webpack-dev server  with the following:
 
 ```
 	> git clone git@github.com:jamalsoueidan/react-youtube-search-api.git
